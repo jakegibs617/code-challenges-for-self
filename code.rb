@@ -83,6 +83,8 @@ end
 
 # outlier cases, 0, empty array, duplicate numbers
 unsorted_array = [20, 16, 4, 8, 1]
+
+# not currently working, in process of debuging, then will refactor..
 print sort_array(unsorted_array)
 
 
